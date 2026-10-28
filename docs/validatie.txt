@@ -1,0 +1,136 @@
+auto                           jaar  0-100  fabr.   afw% |  vmax fabr.  afw% | start 400m
+ALFA ROMEO SZ                  1989    7.5    7.0    +7% |   250   245   +2% |  5750  15.5
+ASTON MARTIN LAGONDA           1987    8.6    9.1    -5% |   226   230   -2% |  2200  16.1
+AUDI 80 C                      1986   13.1   13.7    -5% |   180   167   +8% |  2750  18.6
+BENTLEY MULSANNE TURBO R       1985    7.5    7.0    +7% |   241   230   +5% |  2200  15.5  (deels geschat)
+BMW 850I                       1990    5.9    6.8   -13% |   250   250   +0% |  4750  14.2
+BMW 325I                       1986    8.1    8.2    -2% |   225   218   +3% |  5750  15.7
+BMW ALPINA B10 BI-TURBO        1989    5.2    5.9   -12% |   293   290   +1% |  5500  13.5
+CHEVROLETTE CORVETTE ZR1       1990    5.2    4.9    +6% |   308   290   +6% |  6250  13.1
+CITROEN 2CV                    1981   34.1   33.5    +2% |   107   115   -7% |  4250  23.3
+DE TOMASO PANTERA GTS          1984    5.1    6.0   -15% |   229   240   -5% |  5000  13.4  (deels geschat)
+DONKERVOORT D10                1988    5.3    4.9    +9% |   212   240  -12% |  5000  13.3  (deels geschat)
+FERRARI F40                    1987    4.0    4.1    -2% |   330   324   +2% |  6250  11.5
+FERRARI TESTAROSSA             1984    4.7    5.8   -18% |   300   290   +4% |  6000  12.7
+FERRARI 512 TR                 1992    4.6    4.8    -4% |   311   314   -1% |  6750  12.5
+FORD THUNDERBIRD               1989   11.4   11.8    -4% |   208   190  +10% |  2200  17.8  (deels geschat)
+HONDA CIVIC CRX VTEC           1989    8.3    8.1    +2% |   230   222   +3% |  7500  16.2
+HONDA NSX                      1990    6.3    5.7   +10% |   283   270   +5% |  7250  14.2
+LAMBORGHINI DIABLO             1990    4.1    4.5    -8% |   343   325   +5% |  6500  12.2
+LOTUS ESPRIT TURBO SE          1989    5.0    5.2    -4% |   267   262   +2% |  6250  13.4
+MASERATI SHAMAL                1990    5.5    5.3    +3% |   272   270   +1% |  4000  13.4
+MERCEDES E 2.5-16              1988    7.4    7.5    -1% |   243   230   +6% |  6250  15.5
+NISSAN 300 ZX TWIN TURBO       1989    5.8    5.6    +4% |   250   250   +0% |  5750  14.1
+OPEL CALIBRA TURBO 4X4         1992    7.2    6.8    +6% |   255   245   +4% |  3500  15.0
+PANTERA GT5                    1980    5.3    5.7    -6% |   260   221  +18% |  5500  13.4
+PORSCHE 911 CARRERA 2          1989    6.2    5.7    +8% |   247   260   -5% |  5500  14.5
+PORSCHE 968                    1991    6.1    6.5    -6% |   261   252   +3% |  5750  14.4
+RENAULT 21 GTS                 1986   11.2   10.7    +5% |   191   185   +3% |  4750  17.8
+VW CORRADO G60                 1988    7.5    8.3    -9% |   234   225   +4% |  6250  15.7
+MERCEDES-BENZ 300 SL           1954    7.8    9.3   -16% |   226   235   -4% |  5750  15.7  (deels geschat)
+VOLKSWAGEN KEVER 1200          1955   36.1   40.0   -10% |   111   110   +1% |  2750  23.4  (deels geschat)
+FIAT 500 NUOVA                 1957   -1.0    0.0    +0% |    97    85  +14% |  2500  28.3  (deels geschat)
+CITROEN DS 19                  1955   19.2   21.0    -8% |   151   140   +8% |  4250  21.6  (deels geschat)
+JAGUAR XK120                   1951    9.3   10.0    -7% |   198   193   +2% |  3500  16.6  (deels geschat)
+PORSCHE 356 A 1600             1956   15.3   14.5    +5% |   154   160   -4% |  4250  19.7  (deels geschat)
+CHEVROLET CORVETTE 1957        1957    7.4    6.2   +20% |   215   212   +2% |  5250  15.2  (deels geschat)
+FORD THUNDERBIRD 1955          1955    8.7   10.5   -17% |   181   180   +0% |  2200  16.4  (deels geschat)
+CHEVROLET BEL AIR 1957         1957    8.4   10.0   -16% |   192   175  +10% |  2200  16.5  (deels geschat)
+MINI 850                       1959   20.3   30.0   -32% |   126   116   +9% |  4000  21.3  (deels geschat)
+AUSTIN-HEALEY 100              1953   11.2   11.0    +1% |   179   166   +8% |  3500  17.8  (deels geschat)
+BMW 507                        1956    9.4   11.0   -14% |   206   200   +3% |  5000  17.1  (deels geschat)
+ALFA ROMEO GIULIETTA SPRINT    1954   13.1   15.0   -13% |   159   165   -3% |  5250  18.9  (deels geschat)
+MG MGA 1500                    1955   14.0   15.6   -10% |   164   158   +4% |  5000  19.2  (deels geschat)
+JAGUAR E-TYPE 3.8              1961    6.9    7.1    -3% |   238   241   -1% |  4500  14.8  (deels geschat)
+FORD MUSTANG 289               1965    7.2    8.5   -16% |   223   190  +17% |  3750  15.2  (deels geschat)
+PORSCHE 911 2.0                1964    9.2    9.1    +1% |   206   210   -2% |  5500  16.5  (deels geschat)
+LAMBORGHINI MIURA P400         1966    5.5    6.7   -17% |   287   280   +2% |  6250  13.3  (deels geschat)
+FERRARI 250 GTO                1962    6.2    6.1    +2% |   291   280   +4% |  6500  13.9  (deels geschat)
+ASTON MARTIN DB5               1963    6.9    8.1   -15% |   235   233   +1% |  5250  15.0  (deels geschat)
+SHELBY COBRA 427               1965    5.9    4.3   +38% |   242   265   -9% |  4750  13.5  (deels geschat)
+FORD GT40                      1966    5.3    5.3    -1% |   274   265   +3% |  5250  12.8  (deels geschat)
+PONTIAC GTO 1964               1964    7.3    7.0    +4% |   205   190   +8% |  4250  14.9  (deels geschat)
+CHEVROLET CAMARO Z/28          1969    6.6    6.9    -4% |   236   210  +13% |  5500  14.7  (deels geschat)
+DODGE CHARGER R/T 440          1968    6.5    7.0    -7% |   193   200   -3% |  2200  14.5  (deels geschat)
+MINI COOPER S 1275             1964    9.7   11.5   -15% |   169   157   +7% |  1500  17.1  (deels geschat)
+ALFA ROMEO SPIDER DUETTO       1966   10.3   11.3    -9% |   193   185   +4% |  4250  17.2  (deels geschat)
+MERCEDES-BENZ 280 SL           1968    9.1    9.3    -2% |   206   200   +3% |  5250  16.4  (deels geschat)
+LOTUS ELAN                     1964    7.3    8.0    -9% |   177   185   -5% |  5000  15.5  (deels geschat)
+LAMBORGHINI COUNTACH LP400     1974    5.3    5.9   -11% |   288   290   -1% |  7500  13.5  (deels geschat)
+FERRARI 365 GT4 BB             1973    5.1    6.5   -21% |   301   280   +7% |  6250  13.2  (deels geschat)
+PORSCHE 911 TURBO 3.0          1975    5.7    5.5    +3% |   254   250   +2% |  6250  13.7  (deels geschat)
+BMW 2002 TURBO                 1973    7.0    7.0    -0% |   210   211   -1% |  5500  15.2  (deels geschat)
+VOLKSWAGEN GOLF GTI            1976    8.8    9.0    -2% |   163   182  -11% |  2250  16.4  (deels geschat)
+DATSUN 240Z                    1970    7.8    8.0    -2% |   214   200   +7% |  5750  15.9  (deels geschat)
+LANCIA STRATOS HF              1973    6.2    6.8    -9% |   244   230   +6% |  6000  14.3  (deels geschat)
+PLYMOUTH HEMI CUDA             1970    6.0    6.0    -0% |   222   225   -1% |  4500  13.9  (deels geschat)
+CHEVROLET CHEVELLE SS 454      1970    5.6    6.4   -13% |   195   210   -7% |  2200  13.5  (deels geschat)
+MERCEDES-BENZ 450 SEL 6.9      1975    6.9    7.4    -7% |   238   225   +6% |  2200  15.1  (deels geschat)
+FERRARI 308 GTB                1975    5.4    6.7   -19% |   274   252   +9% |  5750  13.7  (deels geschat)
+BMW M1                         1978    5.9    5.6    +4% |   273   262   +4% |  6500  13.9  (deels geschat)
+LOTUS ESPRIT S1                1976    7.5    8.4   -10% |   222   200  +11% |  6000  15.3  (deels geschat)
+ALPINE A110 1600 S             1971    7.6    7.0    +9% |   217   210   +3% |  6500  15.4  (deels geschat)
+SAAB 99 TURBO                  1978    8.9    8.9    -0% |   201   197   +2% |  2750  16.3  (deels geschat)
+AUDI QUATTRO                   1980    6.9    7.1    -3% |   222   220   +1% |  5250  14.7  (deels geschat)
+LANCIA DELTA HF INTEGRALE      1988    6.9    6.6    +4% |   225   215   +4% |  5000  14.8  (deels geschat)
+BMW M3 E30                     1986    6.8    6.7    +2% |   242   235   +3% |  5750  14.7  (deels geschat)
+PORSCHE 959                    1987    4.8    3.7   +29% |   294   317   -7% |  7000  12.9  (deels geschat)
+FORD SIERRA RS COSWORTH        1986    6.6    6.2    +6% |   240   242   -1% |  6000  14.9  (deels geschat)
+PEUGEOT 205 GTI 1.9            1986    8.1    7.8    +3% |   215   206   +4% |  5750  16.1  (deels geschat)
+TOYOTA COROLLA GT AE86         1983    8.6    8.7    -1% |   202   196   +3% |  7000  16.1  (deels geschat)
+DELOREAN DMC-12                1981    9.5   10.5    -9% |   207   177  +17% |  4500  17.1  (deels geschat)
+MCLAREN F1                     1993    3.7    3.2   +16% |   368   386   -5% |  6750  11.1  (deels geschat)
+TOYOTA SUPRA TWIN TURBO        1993    5.4    4.9   +10% |   250   250   +0% |  6000  13.7  (deels geschat)
+MAZDA MX-5 1.6                 1989    9.6    8.7   +11% |   201   197   +2% |  6500  16.8  (deels geschat)
+SUBARU IMPREZA TURBO           1994    5.9    5.8    +2% |   239   230   +4% |  5750  14.3  (deels geschat)
+MITSUBISHI LANCER EVO VI       1999    5.4    4.6   +17% |   254   240   +6% |  4500  13.4  (deels geschat)
+NISSAN SKYLINE GT-R R34        1999    5.5    4.9   +12% |   250   250   +0% |  6250  13.8  (deels geschat)
+BMW M3 3.2 E36                 1995    5.5    5.5    -0% |   250   250   +0% |  4500  13.7  (deels geschat)
+FERRARI F355 BERLINETTA        1994    4.6    4.7    -2% |   286   295   -3% |  7500  12.7  (deels geschat)
+DODGE VIPER RT/10              1992    4.9    4.6    +7% |   282   266   +6% |  5000  12.8  (deels geschat)
+MAZDA RX-7 FD                  1992    5.8    5.3   +10% |   250   250   +0% |  7250  14.1  (deels geschat)
+PORSCHE 911 CARRERA 993        1994    5.5    5.6    -2% |   271   270   +0% |  6000  13.8  (deels geschat)
+RENAULT CLIO WILLIAMS          1993    8.0    7.8    +3% |   205   215   -5% |  5250  15.7  (deels geschat)
+HONDA S2000                    1999    7.6    6.2   +22% |   261   240   +9% |  8500  15.3  (deels geschat)
+BUGATTI VEYRON 16.4            2005    2.6    2.5    +6% |   401   407   -2% |  4500   9.9  (deels geschat)
+PORSCHE CARRERA GT             2004    3.6    3.9    -8% |   328   330   -1% |  7250  11.2  (deels geschat)
+FERRARI ENZO                   2002    3.4    3.7    -8% |   349   350   -0% |  7500  10.7  (deels geschat)
+FORD GT                        2005    3.8    3.8    +1% |   348   330   +5% |  6000  11.9  (deels geschat)
+BMW M3 E46                     2000    5.1    5.2    -1% |   250   250   +0% |  7000  13.4  (deels geschat)
+BMW M5 E60                     2005    4.3    4.7    -8% |   250   250   +0% |  6500  12.3  (deels geschat)
+AUDI R8 4.2 FSI                2007    4.8    4.6    +4% |   304   301   +1% |  6750  12.8  (deels geschat)
+NISSAN GT-R R35                2007    3.8    3.6    +4% |   317   310   +2% |  6000  11.8  (deels geschat)
+LAMBORGHINI GALLARDO           2003    4.3    4.2    +2% |   311   309   +0% |  7000  12.1  (deels geschat)
+MERCEDES-BENZ SLR MCLAREN      2004    4.1    3.8    +7% |   334   334   -0% |  2200  11.9  (deels geschat)
+PORSCHE 911 GT3 997            2006    4.4    4.3    +2% |   325   310   +5% |  7500  12.3  (deels geschat)
+VOLKSWAGEN GOLF GTI MK5        2004    6.7    7.2    -7% |   242   235   +3% |  1750  15.0  (deels geschat)
+CHEVROLET CORVETTE Z06 C6      2006    4.1    3.9    +5% |   332   318   +4% |  5750  11.8  (deels geschat)
+FERRARI F430                   2004    4.0    4.0    -0% |   300   315   -5% |  6750  12.0  (deels geschat)
+LEXUS LFA                      2010    3.9    3.7    +6% |   325   325   +0% |  8500  11.5  (deels geschat)
+FERRARI 488 GTB                2015    2.8    3.0    -6% |   330   330   -0% |  5000  10.3  (deels geschat)
+MCLAREN MP4-12C                2011    3.1    3.1    +2% |   357   333   +7% |  7500  10.8  (deels geschat)
+LAMBORGHINI AVENTADOR          2011    3.1    2.9    +7% |   371   350   +6% |  8000  10.7  (deels geschat)
+PORSCHE 911 GT3 RS 991         2015    3.7    3.3   +12% |   325   310   +5% |  8250  11.5  (deels geschat)
+MERCEDES-AMG GT S              2015    3.4    3.8   -10% |   319   310   +3% |  2250  11.3  (deels geschat)
+BMW M4 F82                     2014    3.8    4.1    -7% |   250   250   +0% |  2500  11.9  (deels geschat)
+FORD FOCUS RS MK3              2016    5.3    4.7   +13% |   273   266   +3% |  3500  13.3  (deels geschat)
+HONDA CIVIC TYPE R FK8         2017    6.0    5.8    +4% |   274   272   +1% |  1500  13.8  (deels geschat)
+VOLKSWAGEN GOLF R MK7          2014    5.0    4.9    +3% |   250   250   +0% |  3000  13.2  (deels geschat)
+TOYOTA GT86                    2012    7.8    7.6    +3% |   250   226  +11% |  6750  15.5  (deels geschat)
+FORD MUSTANG GT                2015    4.6    4.8    -4% |   250   250   +0% |  5250  12.9  (deels geschat)
+DODGE CHALLENGER SRT HELLCAT   2015    4.1    3.9    +5% |   319   320   -0% |  3200  11.9  (deels geschat)
+BUGATTI CHIRON                 2016    2.4    2.4    +1% |   420   420   +0% |  1750   9.3  (deels geschat)
+ALFA ROMEO GIULIA QUADRIFOGLIO 2016    4.0    3.9    +2% |   314   307   +2% |  3000  11.9  (deels geschat)
+PORSCHE 911 GT3 992            2021    3.4    3.4    -0% |   320   318   +1% |  8250  11.2  (deels geschat)
+CHEVROLET CORVETTE C8          2020    3.4    3.0   +14% |   327   312   +5% |  6000  11.2  (deels geschat)
+TOYOTA GR YARIS                2020    5.2    5.5    -5% |   230   230   +0% |  4250  13.3  (deels geschat)
+HONDA CIVIC TYPE R FL5         2022    6.0    5.4   +11% |   275   275   -0% |  1500  13.8  (deels geschat)
+BMW M3 COMPETITION G80         2021    4.1    3.9    +5% |   250   250   +0% |  3200  12.1  (deels geschat)
+FORD MUSTANG DARK HORSE        2024    4.5    4.4    +3% |   250   250   +0% |  6000  12.8  (deels geschat)
+LAMBORGHINI HURACAN STO        2021    4.1    3.0   +37% |   340   310  +10% |  8000  11.6  (deels geschat)
+FERRARI 812 COMPETIZIONE       2021    3.2    2.9   +14% |   367   340   +8% |  8000  10.5  (deels geschat)
+MCLAREN 765LT                  2020    2.8    2.8    -1% |   375   330  +13% |  7250   9.9  (deels geschat)
+TOYOTA GR86                    2021    6.4    6.3    +1% |   263   226  +16% |  4750  14.3  (deels geschat)
+PORSCHE 718 CAYMAN GT4 RS      2022    3.4    3.4    +0% |   329   315   +5% |  8500  11.3  (deels geschat)
+ASTON MARTIN VANTAGE           2024    3.6    3.5    +4% |   344   325   +6% |  3200  11.3  (deels geschat)
+RMS afwijking 0-100: 10.4%   topsnelheid: 6.1%

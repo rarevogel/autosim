@@ -1,0 +1,13 @@
+build/
+*.apk
+*.idsig
+*.keystore
+*.jks
+assets/logos/
+tools/logos-overzicht.html
+tools/logos-origineel/
+tools/merklogos-overzicht.html
+assets/merken/
+tools/merken-origineel/
+tools/merken-overzicht.html
+__pycache__/
